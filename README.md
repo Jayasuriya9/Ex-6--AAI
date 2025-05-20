@@ -4,7 +4,7 @@
    Experiment 6: Implementation of Semantic Analysis
 </h1>  
 
-### Name: Jayasuriya
+### Name: J Jayasuriya
 ### Register Number: 212223230088
 
 ## Aim: 
